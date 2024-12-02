@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">ABC</string>
+    <string name="app_name">Tân Phương MilkTea</string>
+    <string name="title_activity_store_maps">StoreMapsActivity</string>
+    <string name="title_activity_shipment_maps">ShipmentMapsActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_store">Cửa hàng</string>
+    <string name="title_order">Đơn hàng</string>
+    <string name="title_cart">Giỏ hàng</string>
+    <string name="title_account">Tài khoản</string>
+    <string name="prompt_email"></string>
+    <string name="prompt_password"></string>
+    <string name="action_sign_in_short"></string>
+    <string name="action_sign_in"></string>
+    <string name="googlepay_status_unavailable">Unfortunately, Google Pay is not available on this device.</string>
+    <string name="payments_show_name">Successfully received payment data for %s!</string>
 </resources>

@@ -9,7 +9,7 @@ import com.google.android.gms.tasks.Task;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.firestore.QueryDocumentSnapshot;
 import com.google.firebase.firestore.QuerySnapshot;
-import com.tanphuong.milktea.drink.data.model.Ingredient;
+import com.example.abc.drink.data.model.Ingredient;
 
 import java.util.ArrayList;
 import java.util.List;

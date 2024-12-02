@@ -13,6 +13,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import com.example.abc.bill.data.BillFetcher;
 import com.example.abc.bill.data.model.Bill;
 import com.example.abc.bill.ui.adapter.BillHistoryAdapter;
+import com.example.abc.databinding.FragmentOrderBinding;
 
 import java.util.List;
 
