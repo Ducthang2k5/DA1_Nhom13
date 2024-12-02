@@ -7,7 +7,7 @@ import android.widget.TextView;
 
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.model.Marker;
-import com.tanphuong.milktea.R;
+import com.example.abc.R;
 
 public class StoreInfoWindowAdapter implements GoogleMap.InfoWindowAdapter {
     private Context context;

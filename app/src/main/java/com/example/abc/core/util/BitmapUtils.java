@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 import androidx.annotation.DrawableRes;
 
-import com.tanphuong.milktea.R;
+import com.example.abc.R;
 
 import de.hdodenhof.circleimageview.CircleImageView;
 
