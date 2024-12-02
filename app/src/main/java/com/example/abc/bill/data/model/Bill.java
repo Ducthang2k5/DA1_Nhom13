@@ -1,9 +1,9 @@
 package com.example.abc.bill.data.model;
 
-import com.tanphuong.milktea.authorization.data.model.User;
-import com.tanphuong.milktea.drink.data.model.MilkTea;
-import com.tanphuong.milktea.drink.data.model.MilkTeaOrder;
-import com.tanphuong.milktea.shipment.data.model.Shipper;
+import com.example.abc.authorization.data.model.User;
+import com.example.abc.drink.data.model.MilkTea;
+import com.example.abc.drink.data.model.MilkTeaOrder;
+import com.example.abc.shipment.data.model.Shipper;
 
 import java.io.Serializable;
 import java.util.Date;

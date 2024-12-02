@@ -9,8 +9,8 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.tanphuong.milktea.bill.data.model.Bill;
-import com.tanphuong.milktea.databinding.ItemHistoryBillBinding;
+import com.example.abc.bill.data.model.Bill;
+import com.example.abc.databinding.ItemHistoryBillBinding;
 
 import java.text.SimpleDateFormat;
 import java.util.List;

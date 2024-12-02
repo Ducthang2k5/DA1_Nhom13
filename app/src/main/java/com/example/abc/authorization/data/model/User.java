@@ -1,6 +1,6 @@
 package com.example.abc.authorization.data.model;
 
-import com.tanphuong.milktea.core.data.model.Person;
+import com.example.abc.core.data.model.Person;
 
 import java.io.Serializable;
 

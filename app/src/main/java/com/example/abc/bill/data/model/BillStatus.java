@@ -1,6 +1,6 @@
 package com.example.abc.bill.data.model;
 
-import com.tanphuong.milktea.R;
+import com.example.abc.R;
 
 public enum BillStatus {
     CANCELLED, ON_GOING, SHIPPER_FINDING, COMPLETED;

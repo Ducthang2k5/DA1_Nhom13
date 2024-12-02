@@ -30,12 +30,12 @@ import com.google.firebase.auth.FirebaseAuthMissingActivityForRecaptchaException
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.auth.GoogleAuthProvider;
 import com.google.firebase.auth.PhoneAuthOptions;
-import com.tanphuong.milktea.authorization.data.AuthorizationValidator;
-import com.tanphuong.milktea.authorization.data.PhoneSignIn;
-import com.tanphuong.milktea.authorization.data.UserUploader;
-import com.tanphuong.milktea.core.ui.LoadingDialog;
-import com.tanphuong.milktea.databinding.ActivitySignInBinding;
-import com.tanphuong.milktea.home.ui.HomeActivity;
+import com.example.abc.authorization.data.AuthorizationValidator;
+import com.example.abc.authorization.data.PhoneSignIn;
+import com.example.abc.authorization.data.UserUploader;
+import com.example.abc.core.ui.LoadingDialog;
+import com.example.abc.databinding.ActivitySignInBinding;
+import com.example.abc.home.ui.HomeActivity;
 
 import java.util.concurrent.TimeUnit;
 

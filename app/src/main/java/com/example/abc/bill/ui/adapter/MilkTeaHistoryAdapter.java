@@ -8,9 +8,9 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
-import com.tanphuong.milktea.databinding.ItemHistoryMilkTeaBinding;
-import com.tanphuong.milktea.drink.data.model.MilkTeaOrder;
-import com.tanphuong.milktea.drink.data.model.RealIngredient;
+import com.example.abc.databinding.ItemHistoryMilkTeaBinding;
+import com.example.abc.drink.data.model.MilkTeaOrder;
+import com.example.abc.drink.data.model.RealIngredient;
 
 import java.util.List;
 

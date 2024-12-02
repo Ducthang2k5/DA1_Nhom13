@@ -8,19 +8,19 @@ import androidx.core.content.ContextCompat;
 import androidx.recyclerview.widget.LinearLayoutManager;
 
 import com.bumptech.glide.Glide;
-import com.tanphuong.milktea.R;
-import com.tanphuong.milktea.bill.data.MilkTeaOrderFactory;
-import com.tanphuong.milktea.databinding.ActivityOrderMilkTeaBinding;
-import com.tanphuong.milktea.drink.data.IngredientFetcher;
-import com.tanphuong.milktea.drink.data.ToppingFetcher;
-import com.tanphuong.milktea.drink.data.model.IceGauge;
-import com.tanphuong.milktea.drink.data.model.Ingredient;
-import com.tanphuong.milktea.drink.data.model.MilkTea;
-import com.tanphuong.milktea.drink.data.model.MilkTeaOrder;
-import com.tanphuong.milktea.drink.data.model.RealIngredient;
-import com.tanphuong.milktea.drink.data.model.Size;
-import com.tanphuong.milktea.drink.data.model.SugarGauge;
-import com.tanphuong.milktea.drink.ui.adapter.ToppingAdapter;
+import com.example.abc.R;
+import com.example.abc.bill.data.MilkTeaOrderFactory;
+import com.example.abc.databinding.ActivityOrderMilkTeaBinding;
+import com.example.abc.drink.data.IngredientFetcher;
+import com.example.abc.drink.data.ToppingFetcher;
+import com.example.abc.drink.data.model.IceGauge;
+import com.example.abc.drink.data.model.Ingredient;
+import com.example.abc.drink.data.model.MilkTea;
+import com.example.abc.drink.data.model.MilkTeaOrder;
+import com.example.abc.drink.data.model.RealIngredient;
+import com.example.abc.drink.data.model.Size;
+import com.example.abc.drink.data.model.SugarGauge;
+import com.example.abc.drink.ui.adapter.ToppingAdapter;
 
 import java.util.List;
 

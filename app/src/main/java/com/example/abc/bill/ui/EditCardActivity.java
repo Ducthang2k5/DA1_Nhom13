@@ -12,9 +12,9 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.tanphuong.milktea.bill.data.CardFactory;
-import com.tanphuong.milktea.bill.data.model.Card;
-import com.tanphuong.milktea.databinding.ActivityEditCardBinding;
+import com.example.abc.bill.data.CardFactory;
+import com.example.abc.bill.data.model.Card;
+import com.example.abc.databinding.ActivityEditCardBinding;
 
 public class EditCardActivity extends AppCompatActivity {
     private ActivityEditCardBinding binding;

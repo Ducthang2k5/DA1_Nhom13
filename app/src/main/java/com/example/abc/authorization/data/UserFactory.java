@@ -1,6 +1,6 @@
 package com.example.abc.authorization.data;
 
-import com.tanphuong.milktea.authorization.data.model.User;
+import com.example.abc.authorization.data.model.User;
 
 public final class UserFactory {
    private static User currentUser = null;

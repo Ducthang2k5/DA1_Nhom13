@@ -1,6 +1,6 @@
 package com.example.abc.bill.data;
 
-import com.tanphuong.milktea.bill.data.model.Card;
+import com.example.abc.bill.data.model.Card;
 
 public final class CardFactory {
     private static Card cardInfo = new Card(

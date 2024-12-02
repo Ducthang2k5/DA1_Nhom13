@@ -7,8 +7,8 @@ import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.tanphuong.milktea.databinding.ItemOrderSummaryBinding;
-import com.tanphuong.milktea.drink.data.model.MilkTeaOrder;
+import com.example.abc.databinding.ItemOrderSummaryBinding;
+import com.example.abc.drink.data.model.MilkTeaOrder;
 
 import java.util.List;
 
