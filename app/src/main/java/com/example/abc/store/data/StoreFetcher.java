@@ -10,9 +10,9 @@ import com.google.firebase.firestore.DocumentReference;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.firestore.QueryDocumentSnapshot;
 import com.google.firebase.firestore.QuerySnapshot;
-import com.tanphuong.milktea.drink.data.model.Ingredient;
-import com.tanphuong.milktea.drink.data.model.RealIngredient;
-import com.tanphuong.milktea.store.data.model.Store;
+import com.example.abc.drink.data.model.Ingredient;
+import com.example.abc.drink.data.model.RealIngredient;
+import com.example.abc.store.data.model.Store;
 
 import java.util.ArrayList;
 import java.util.List;

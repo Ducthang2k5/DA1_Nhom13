@@ -8,7 +8,7 @@ import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.firestore.DocumentSnapshot;
 import com.google.firebase.firestore.FirebaseFirestore;
-import com.tanphuong.milktea.shipment.data.model.Shipper;
+import com.example.abc.shipment.data.model.Shipper;
 
 public final class ShipperFetcher {
     private static final String TAG = "ShipperFetcher";

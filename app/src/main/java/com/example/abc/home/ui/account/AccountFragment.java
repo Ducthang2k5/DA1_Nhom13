@@ -17,11 +17,11 @@ import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
-import com.tanphuong.milktea.R;
-import com.tanphuong.milktea.authorization.data.UserFetcher;
-import com.tanphuong.milktea.authorization.data.model.User;
-import com.tanphuong.milktea.authorization.ui.SignInActivity;
-import com.tanphuong.milktea.databinding.FragmentAccountBinding;
+import com.example.abc.R;
+import com.example.abc.authorization.data.UserFetcher;
+import com.example.abc.authorization.data.model.User;
+import com.example.abc.authorization.ui.SignInActivity;
+import com.example.abc.databinding.FragmentAccountBinding;
 
 import java.util.HashMap;
 import java.util.Map;

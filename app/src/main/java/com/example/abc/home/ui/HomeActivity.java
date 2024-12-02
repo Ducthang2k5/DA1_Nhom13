@@ -9,8 +9,8 @@ import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
-import com.tanphuong.milktea.R;
-import com.tanphuong.milktea.databinding.ActivityHomeBinding;
+import com.example.abc.R;
+import com.example.abc.databinding.ActivityHomeBinding;
 
 
 public class HomeActivity extends AppCompatActivity {

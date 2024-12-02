@@ -1,6 +1,6 @@
 package com.example.abc.shipment.data.model;
 
-import com.tanphuong.milktea.core.data.model.Person;
+import com.example.abc.core.data.model.Person;
 
 import java.io.Serializable;
 

@@ -10,11 +10,11 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 
-import com.tanphuong.milktea.bill.data.MilkTeaOrderFactory;
-import com.tanphuong.milktea.bill.ui.BillConfirmActivity;
-import com.tanphuong.milktea.bill.ui.adapter.MilkTeaOrderAdapter;
-import com.tanphuong.milktea.databinding.FragmentCartBinding;
-import com.tanphuong.milktea.drink.data.model.MilkTeaOrder;
+import com.example.abc.bill.data.MilkTeaOrderFactory;
+import com.example.abc.bill.ui.BillConfirmActivity;
+import com.example.abc.bill.ui.adapter.MilkTeaOrderAdapter;
+import com.example.abc.databinding.FragmentCartBinding;
+import com.example.abc.drink.data.model.MilkTeaOrder;
 
 import java.util.List;
 

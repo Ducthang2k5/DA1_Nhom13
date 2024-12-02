@@ -26,17 +26,17 @@ import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.android.gms.maps.model.Polyline;
 import com.google.android.gms.maps.model.PolylineOptions;
-import com.tanphuong.milktea.R;
-import com.tanphuong.milktea.bill.data.BillUploader;
-import com.tanphuong.milktea.bill.data.model.BillStatus;
-import com.tanphuong.milktea.bill.util.JsonUtils;
-import com.tanphuong.milktea.core.util.BitmapUtils;
-import com.tanphuong.milktea.databinding.ActivityShipmentMapsBinding;
-import com.tanphuong.milktea.shipment.data.DirectionsJSONParser;
-import com.tanphuong.milktea.shipment.data.MapConstants;
-import com.tanphuong.milktea.shipment.data.ShipperFetcher;
-import com.tanphuong.milktea.shipment.data.model.ShipStage;
-import com.tanphuong.milktea.shipment.data.model.Shipper;
+import com.example.abc.R;
+import com.example.abc.bill.data.BillUploader;
+import com.example.abc.bill.data.model.BillStatus;
+import com.example.abc.bill.util.JsonUtils;
+import com.example.abc.core.util.BitmapUtils;
+import com.example.abc.databinding.ActivityShipmentMapsBinding;
+import com.example.abc.shipment.data.DirectionsJSONParser;
+import com.example.abc.shipment.data.MapConstants;
+import com.example.abc.shipment.data.ShipperFetcher;
+import com.example.abc.shipment.data.model.ShipStage;
+import com.example.abc.shipment.data.model.Shipper;
 
 import org.json.JSONObject;
 

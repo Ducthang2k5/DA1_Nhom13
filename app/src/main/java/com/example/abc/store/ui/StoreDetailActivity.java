@@ -8,14 +8,14 @@ import androidx.fragment.app.FragmentActivity;
 import androidx.recyclerview.widget.GridLayoutManager;
 
 import com.bumptech.glide.Glide;
-import com.tanphuong.milktea.bill.ui.OrderMilkTeaActivity;
-import com.tanphuong.milktea.databinding.ActivityStoreDetailBinding;
-import com.tanphuong.milktea.drink.data.IngredientFetcher;
-import com.tanphuong.milktea.drink.data.MilkTeaFetcher;
-import com.tanphuong.milktea.drink.data.model.Ingredient;
-import com.tanphuong.milktea.drink.data.model.MilkTea;
-import com.tanphuong.milktea.drink.ui.adapter.GridMilkTeaAdapter;
-import com.tanphuong.milktea.store.data.model.Store;
+import com.example.abc.bill.ui.OrderMilkTeaActivity;
+import com.example.abc.databinding.ActivityStoreDetailBinding;
+import com.example.abc.drink.data.IngredientFetcher;
+import com.example.abc.drink.data.MilkTeaFetcher;
+import com.example.abc.drink.data.model.Ingredient;
+import com.example.abc.drink.data.model.MilkTea;
+import com.example.abc.drink.ui.adapter.GridMilkTeaAdapter;
+import com.example.abc.store.data.model.Store;
 
 import java.util.List;
 

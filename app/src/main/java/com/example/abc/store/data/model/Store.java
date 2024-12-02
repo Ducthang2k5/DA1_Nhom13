@@ -1,6 +1,6 @@
 package com.example.abc.store.data.model;
 
-import com.tanphuong.milktea.drink.data.model.RealIngredient;
+import com.example.abc.drink.data.model.RealIngredient;
 
 import java.io.Serializable;
 import java.util.List;
