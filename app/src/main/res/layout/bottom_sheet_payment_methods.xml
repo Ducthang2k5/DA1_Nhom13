@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bottom_sheet"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:padding="16dp"
+    app:behavior_hideable="true"
+    app:behavior_peekHeight="56dp"
+    app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_weight="2"
+        android:text="Chọn phương thức thanh toán"
+        android:textColor="#444"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+    <RadioGroup
+        android:id="@+id/payment_method_options"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+
+        <RadioButton
+            android:id="@+id/option_cash"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:paddingHorizontal="8dp"
+            android:text="Tiền mặt"
+            android:textSize="16sp" />
+
+        <RadioButton
+            android:id="@+id/option_atm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingHorizontal="8dp"
+            android:text="Thẻ ATM nội địa"
+            android:textSize="16sp" />
+
+        <RadioButton
+            android:id="@+id/option_gpay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingHorizontal="8dp"
+            android:text="Google Pay"
+            android:textSize="16sp" />
+    </RadioGroup>
+</LinearLayout>
