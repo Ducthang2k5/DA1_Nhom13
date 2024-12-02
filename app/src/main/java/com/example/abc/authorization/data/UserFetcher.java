@@ -10,7 +10,7 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.firestore.DocumentSnapshot;
 import com.google.firebase.firestore.FirebaseFirestore;
-com.example.abc.authorization.data.model.User;
+import com.example.abc.authorization.data.model.User;
 
 public final class UserFetcher {
     private static final String TAG = "UserFetcher";

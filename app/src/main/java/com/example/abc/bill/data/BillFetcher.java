@@ -31,7 +31,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 import java.util.Map;
-import static com.tanphuong.milktea.bill.data.model.PaymentMethod.CASH;
+import static com.example.abc.bill.data.model.PaymentMethod.CASH;
 
 public class BillFetcher {
     private static final String TAG = "BillFactory";

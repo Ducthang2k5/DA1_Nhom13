@@ -8,7 +8,7 @@ import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.firestore.FirebaseFirestore;
-com.example.abc.authorization.data.model.User;
+import com.example.abc.authorization.data.model.User;
 
 public final class UserUploader {
     private static final String TAG = "UserUploader";
